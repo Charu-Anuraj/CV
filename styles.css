@@ -1,0 +1,252 @@
+body {
+  background-color: #bbbfca;
+  margin: 0;
+  text-align: center;
+}
+
+.top-container {
+  background-color: #f4f4f2;
+  margin: 0;
+  display: inline-block;
+  width: 100%;;
+  height: 100%;
+}
+
+.middle-container {
+  background-color: #f4f4f2;
+  margin: 0 auto 0 auto;
+  }
+
+.bottom-container {
+  background-color: #bbbfca;
+  padding-top: 20px;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 80px auto 50px auto;
+  text-align: left;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 50px auto 80px auto;
+  text-align: left;
+}
+
+.contact-me {
+  padding-bottom: 40px;
+  padding-top: 20px;
+  margin: 0 auto 0 auto;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Dancing Script', cursive;
+  font-size: 80px;
+  font-style: italic;
+  font-weight: bold;
+  padding-top: 5px;
+}
+
+h2 {
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 50px;
+  margin: 30px;
+  font-weight: lighter;
+}
+
+h3 {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 30px;
+  margin: 10px;
+}
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  margin-top: 0;
+  font-weight: bold;
+}
+
+.p {
+  line-height: 2;
+}
+
+.my-description {
+  padding-bottom: 40px;
+}
+
+.hello {
+  font-size: 50px;
+  font-family: 'Yeon Sung', cursive;
+  margin: 10px;
+  color: #11999E;
+}
+
+.intro {
+  margin: 0;
+  font-family: 'PT Serif', serif;
+  font-size: 30px;
+  font-weight: bold;
+  font-variant: small-caps;
+  padding-bottom: 10px;
+}
+
+h2.skills {
+  font-size: 50px;
+  color: #11999E;
+  padding-top: 40px;
+}
+
+.h3 {
+  font-weight: bolder;
+  text-align: left;
+}
+
+span {
+  text-decoration: underline;
+}
+
+hr {
+  border-style: dotted none none;
+  background-color:  #f4f4f2;
+  width: 5%;
+  border-width: 4px;
+  border-color: black;
+}
+
+.mid-line {
+  border-width: 1px;
+  margin-top: 0;
+  margin-bottom: 0;
+  border-color: black;
+  width: 100%;
+  border-style: solid none none;
+}
+
+.bottom-c {
+  position: absolute;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.top-c {
+  margin-top: 20px;
+  position: relative;
+  left: 180px;
+}
+
+img.profile {
+  width: 250px;
+  height: 250px;
+  margin-top: 20px;
+}
+
+img.mount {
+  margin-bottom: 0;
+  width: 400px;
+  height: 350px;
+  position: relative;
+  bottom: 20px;
+  left: 20px
+}
+
+.skill1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact {
+  height: 150px;
+  float: left;
+  margin: auto;
+  position: absolute;
+  left: 400px;
+}
+
+.copy-right {
+  font-family: Lobster, cursive;
+  padding-top: 20px;
+  padding-bottom: 10px
+}
+
+.button-c {
+   -webkit-border-radius: 9px;
+   -moz-border-radius: 9px;
+   border-radius: 9px;
+   text-decoration-color: white;
+   font-family: Verdana;
+   font-size: 21px;
+   font-weight: 500;
+   padding: 12px;
+   background-color: #23DAE0;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.button-c:hover {
+   background: #23DAE0;
+   border: solid #FFFFFF 1px;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
+
+a:link {
+  color: #333456;
+  text-decoration: none;
+}
+a:visited {
+  color: #333456;
+  text-decoration: none;
+}
+a:hover {
+  color: #133b5c;
+  text-decoration: underline;
+}
+a:active {
+  color: #133b5c;
+  text-decoration: underline;
+}
+
+/*.mid-container {
+  background-color: #79a3b1;
+  height: 200px;
+  width: 200px;
+  margin: 20px;
+  display: inline-block;
+}
+.low-container {
+  background-color: #456268;
+  height: 200px;
+  width: 200px;
+  margin: 0 20px 20px 20px;
+  display: inline-block;
+}
+.right-container {
+  background-color: #d8ac9c;
+  height: 424px;
+  width: 997.330px;
+  margin: 20px 20px 20px 20px;
+  display: inline-block;
+  position: relative;
+  left: 20px;
+}
+.left-container {
+  height: 420px;
+  width: 200px;
+  margin: 0;
+  display: inline-block;
+}*/
